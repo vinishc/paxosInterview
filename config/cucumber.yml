@@ -1,0 +1,3 @@
+default: BROWSER=firefox -p html_report
+chrome: BROWSER=chrome -p html_report
+html_report: --format progress --format html --out=./results/features_report.html
