@@ -8,6 +8,6 @@
 * To run the test cases on the Firefox browser, on the command prompt(terminal) type ```cucumber```
 * To run the test cases on the Chrome browser, on the command prompt(terminal) type ```cucumber -p chrome```
 
-# Results
+## Results
 * Results will be generated in html format in results sub directory. The file name is **features_report.html**
 
