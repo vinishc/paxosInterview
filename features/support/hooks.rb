@@ -1,3 +1,3 @@
-After do
-	PaxosSearch.page.close
+After('@searchFromFile') do
+	page.close
 end
